@@ -32,10 +32,14 @@ nav ul a{
 }
 
 nav ul{
-    display: inline;
-    float: right;
+    /* display: inline;
+    float: right; */
     list-style: none;
     padding: 20px;
+}
+#mynav li{
+    display: inline;
+    float: right;
 }
 li:hover{
     color: black;
